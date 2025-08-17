@@ -1,5 +1,5 @@
 # Matlab Projects - Electric Vehicles
-A folder to showcase My projects 
-Ather 450X : Calculation of Traction force, frontal area, tyre radius and wheel torque using constant, divide, product, display, scope blocks. FTP75 Drive Cycle Source block was used for getting vehicle reference speed.
-Charger: Constant current - Constant voltage charging of battery using circuit breakers and matlab function.
-System Integration: Passively balanced battery pack - charged by solar pv charger, with Temperature measurement, Soc measurement, Over-voltage/Under-voltage protection Circuit connected to motor.
+Project descritions: <br> 
+Ather 450X : Calculation of Traction force, frontal area, tyre radius and wheel torque using constant, divide, product, display, scope blocks. FTP75 Drive Cycle Source block was used for getting vehicle reference speed.<br> 
+Charger: Constant current - Constant voltage charging of battery using circuit breakers and matlab function.<br> 
+System Integration: Passively balanced battery pack - charged by solar pv charger, with Temperature measurement, Soc measurement, Over-voltage/Under-voltage protection Circuit connected to motor.<br> 
